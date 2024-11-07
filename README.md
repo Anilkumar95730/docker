@@ -19,7 +19,7 @@ Host  Container
 4) vi Dockerfile
    
            FROM ubuntu
-           VOLUME ["/Anil"]
+           VOLUME ["/Prashanth"]
    FROM Specifies base image
 VOLUME Give volume directory name
 ![Screenshot 2024-11-05 193648](https://github.com/user-attachments/assets/8d728262-8927-4443-abce-48d2f1ff0252)
